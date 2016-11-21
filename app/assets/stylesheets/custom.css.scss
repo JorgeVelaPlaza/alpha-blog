@@ -61,12 +61,15 @@ $navbar-default-bg: #08088A;
   font-size: 1.5em;
 }
 
-.article-description{
+.article-body{
   border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
-
+.listing{
+  list-style: none;
+  padding-left: 0;
+}
 footer {
   margin-top: 45px;
   padding-top: 5px;
